@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- MADORI のしるし: クリームの地に、ウォルナットの線で描いた間取り(ドアの開き付き)と家具 -->
+  <rect width="512" height="512" rx="112" fill="#efe3cf"/>
+  <g transform="translate(256 256) scale(1.18) translate(-256 -256)">
+  <rect x="156" y="182" width="96" height="40" rx="12" fill="#b4532a"/>
+  <rect x="316" y="296" width="40" height="40" rx="10" fill="#d2a02c"/>
+  <g fill="none" stroke="#7a4a2b" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 368H128V144H384V368H268M288 144V250" stroke-width="22"/>
+    <path d="M268 368V300" stroke-width="10"/>
+    <path d="M268 300A68 68 0 0 0 200 368" stroke-width="6" stroke-dasharray="10 10"/>
+  </g>
+  </g>
+</svg>
